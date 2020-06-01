@@ -1,0 +1,17 @@
+first commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit#
+# Date:      Mon Jun 1 09:46:36 2020 +0530
+#
+# On branch master#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   add.js
+#	new file:   divide.js
+#	new file:   module.js
+#	new file:   multiply,js
+#	new file:   subtract.js
+
+
